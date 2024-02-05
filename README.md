@@ -39,7 +39,7 @@ Welcome to the Arduino Projects repository! This repository contains a collectio
 - Basic understanding of Arduino programming.
 
 ### Installation
-1. Clone the repository: `git clone https://github.com/AndreiE91/Arduino_Projects`
+1. Clone the repository: `git clone https://github.com/AndreiE91/Arduino_Projects.git`
 2. Open each project folder in the Arduino IDE.
 3. Upload the code to your Arduino board.
 
