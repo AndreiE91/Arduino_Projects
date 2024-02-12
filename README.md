@@ -32,6 +32,10 @@ Welcome to the Arduino Projects repository! This repository contains a collectio
 ![Snake Game](images/snake3.jpg)
 ![Snake Game](images/snake4.jpg)
 
+![GIF 1](images/Bump_reset.gif)
+![GIF 2](images/Directions_buttons.gif)
+![GIF 3](images/Speed_control.gif)
+
 ## Getting Started
 
 ### Prerequisites
